@@ -1,0 +1,11 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`
+* `&&`, `||`, `!`
+
+Respuestas:
+*'for'= es un bucle que se utiliza para repetir una o mas instrucciones un determinado numero de veces. Suele ser utilizado cuando se sabe el numero de veces queremos que se ejecute.
+*Operadores Logicos
+-"&&":Tambien "AND"/ "Y", este operador logico evalua ambas expresiones y devolvera verdadero si AMBAS son true, si uno (o ambos) de ellos es falso, este operador devolverá false.
+-"||": Tambien "OR"/ "O", este operador logico determinará si una(o ambas) expresiones son verdadero y devolverá true, si no devolvera false si AMBAS expresiones son false.
+-"!":Tambien "NOT" / "No", este operador logico devolvera el valor booleano opuesto de lo que se le pasa.
