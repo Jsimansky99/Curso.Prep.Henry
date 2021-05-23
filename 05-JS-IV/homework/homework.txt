@@ -1,0 +1,16 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Objetos
+	* Propiedades
+	* Métodos
+	* Bucle `for…in`
+	* Notación de puntos vs notación de corchetes
+
+Respuestas:
+
+*Objetos : coleccion de Propiedades
+*Propiedades: es una asociación entre un nombre (o clave) y un valor.
+*Metodo: son funciones guardadas en un objeto
+*Bucle 'for…in': Es una sintaxis ligeramente diferente al "for" tradicional, comienza igual pero entre paréntesis declararemos una variable, la palabra clave in y el nombre del objeto. Esto recorrerá cada clave del objeto y finalizará cuando se hayan iterado todas las claves. Podemos usar esta clave, y la notación de corchetes, en nuestro bucle for para acceder al valor asociado con esa clave.
+*La notación de puntos solo funciona con nombres de propiedades que son válidos nombres de identificadores, así que básicamente cualquier nombre que también sea un nombre de variable válido y cualquier palabra clave reservada.
+*La notación de corchetes espera una expresión que se evalúa como una cadena (o puede ser forzada a una cadena), por lo que puede usar ¡cualquier secuencia de caracteres como nombre de propiedad. No hay límites para lo que puede contener una cadena.
